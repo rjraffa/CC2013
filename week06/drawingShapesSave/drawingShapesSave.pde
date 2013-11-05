@@ -70,9 +70,6 @@ void draw() {
   
   if (mousePressed==true && mouseX < 200 && mouseY < 200) {
      pickSquare = true;
-     pickCircle = false;
-     pickTriangle = false;
-     pickClear = false;
   }
   
   //for the circle button
